@@ -6,7 +6,6 @@
 - 🔭 &nbsp; I’m currently learning full-stack web development.
 - 🎓 &nbsp; Student at microverse.
 - 💼 &nbsp; full-stack web developer.
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
 - ✍️ &nbsp; Watching Anime and playing league.
  
 
