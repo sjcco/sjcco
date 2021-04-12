@@ -12,7 +12,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
+- 🖥 &nbsp; ruby | ruby on rails
 
 <h3> 🤝🏻 Connect with Me </h3>
 
