@@ -3,8 +3,6 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning full-stack web development.
-- 🎓 &nbsp; Student at microverse.
 - 💼 &nbsp; full-stack web developer.
 - ✍️ &nbsp; Watching Anime and playing league.
  
