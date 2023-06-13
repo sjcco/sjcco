@@ -9,8 +9,8 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
-- 🖥 &nbsp; ruby | ruby on rails
+- 🌐 &nbsp; HTML | CSS | JavaScript | Typescript
+- 🖥 &nbsp; React | React native | nodejs | ruby
 
 <h3> 🤝🏻 Connect with Me </h3>
 
